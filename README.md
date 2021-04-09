@@ -1,4 +1,4 @@
-<img align='right' src='http://cdn.lowgif.com/full/f51d663d84c0613e-.gif' width='300"'>
+<img align='right' src='http://cdn.lowgif.com/full/f51d663d84c0613e-.gif' width='350"'>
 
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <p align="center" "> 
