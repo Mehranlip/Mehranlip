@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://github.com/Mehranlip">
 <img  align="center" src="https://github-readme-stats.vercel.app/api?username=Mehranlip&show_icons=true&count_private=true&include_all_commits=true&theme=dark" /></a>
 <a href="https://github.com/Mehranlip">
