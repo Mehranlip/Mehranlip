@@ -3,7 +3,7 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <p align="center" "> 
  <strong>
-   🔥 My best skills
+   🔥 My best skills :)
 </p>
   <p align="center"> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="csharp" width="40" height="40" />
