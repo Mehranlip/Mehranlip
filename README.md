@@ -1,4 +1,4 @@
-<img style="margin-right: 20px;" align='right' src='https://i.imgur.com/apfKGxE.gif' width='250"'>
+<img align='right' src='https://i.imgur.com/apfKGxE.gif' width='250"'>
 
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <p align="center" "> 
@@ -17,7 +17,7 @@
    
   ⚡️ Web developer | Podcaster | Graphic design [linkedin](https://www.linkedin.com/in/mehran-asadi-7289061b7/).
   <br>
-🌱I am a business management student and currently a graphic designer and web developer. And my programming languages ​​are Python, JavaScript and I have complete control over Linux. I am also familiar with all graphic issues.
+🌱I am a business management student and currently a graphic designer and web developer. And my programming languages ​​are ** Python **, ** JavaScript ** and I have complete control over ** Linux **. I am also familiar with all graphic issues.
 </p>
 
 
