@@ -15,7 +15,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="postgresql" width="40" height="40" />
   
    
-  ⚡️ Web developer | Podcaster | Graphic design [linkedin](https://www.linkedin.com/in/mehran-asadi-7289061b7/).
+  ⚡️ Web developer | Podcaster | Graphic design | [linkedin](https://www.linkedin.com/in/mehran-asadi-7289061b7/).
   <br>
 🌱I am a business management student and currently a graphic designer and web developer. And my programming languages ​​are **Python**, **JavaScript** and I have complete control over **Linux**. I am also familiar with all graphic issues.
 </p>
