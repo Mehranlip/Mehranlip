@@ -17,7 +17,7 @@
    
   ⚡️ Web developer | Podcaster | Graphic design | [linkedin](https://www.linkedin.com/in/mehran-asadi-7289061b7/).
   <br>
-🌱I'm a web developer and user interface designer. The programming languages I know include Python and JavaScript . I am also fluent in CSS frameworks such as Bootstrap and React, as well as one of the Python frameworks called Django
+🌱I'm a web developer and user interface designer. The programming languages I know include Python and JavaScript . I am also fluent in CSS frameworks such as Bootstrap and React, as well as one of the Python frameworks called Django ...
 </p>
 
 
