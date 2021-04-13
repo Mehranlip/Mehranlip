@@ -17,7 +17,7 @@
    
   ⚡️ Web developer | Podcaster | Graphic design | [linkedin](https://www.linkedin.com/in/mehran-asadi-7289061b7/).
   <br> 
-<p> 🌱 My name is Mehran Asadi. I am a business management student and currently a graphic designer and web developer. And my programming language is Python and I am fluent in Linux. I am also familiar with and fluent in all graphic matters. </p>
+<p> 🌱The first solution is not always the best solution, but there is no reason why the first solution should not be the best, so put everyone together before choosing the final solution for your program and then choose one. </p>
 
 
 
