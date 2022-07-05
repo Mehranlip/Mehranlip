@@ -2,7 +2,7 @@
 
 <p align="center" "> 
  <strong>             
-   🔥 My skills :)
+   🔥 My skills
 </p>
   <p align="center"> 
   
