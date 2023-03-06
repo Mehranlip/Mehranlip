@@ -15,6 +15,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="redux" width="40" height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="javascript" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" alt="javascript" width="40" height="40" />
+                                                                                                                               
                                                                                                                                              
   
    
