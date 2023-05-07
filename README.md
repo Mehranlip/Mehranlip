@@ -17,8 +17,6 @@
         alt="next" width="40" height="40" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" alt="graphql" width="40"
         height="40" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" alt="fitebase"
-        width="40" height="40" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap"
         width="40" height="40" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="redux" width="40"
@@ -28,6 +26,8 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript"
         width="40" height="40" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript"
+        width="40" height="40" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" alt="fitebase"
         width="40" height="40" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="40"
         height="40" />
