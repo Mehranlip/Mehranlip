@@ -35,7 +35,7 @@
                                                                                                                                              
   
    
-  ⚡️ Web Developer • UI Designer| [linkedin](https://www.linkedin.com/in/mehran-asadi-7289061b7/)
+  ⚡️ Front End Developer | Bachelor of Business Administration ‌ | UI Designer  [linkedin](https://www.linkedin.com/in/mehran-asadi-7289061b7/)
   <br> 
 <p> 🌱The first solution is not always the best solution, but there is no reason why the first solution should not be the best, so put everyone together before choosing the final solution for your program and then choose one. </p>
 
