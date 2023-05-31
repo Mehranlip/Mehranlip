@@ -1,8 +1,9 @@
 <img style="border-radius: 35px;" src="https://user-images.githubusercontent.com/60979458/218801669-aad47f70-e647-455f-8c05-78cbf253ffec.png" />
 
 <p align="center"> 
- <strong>             
-   🔥 My skills
+ <strong>
+
+  🔥 My skills
 </p>
   <p align="center"> 
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="48" title="React.Js">  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" width="48" title="Next.Js">   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redux.svg" width="48" title="Redux.Js">
