@@ -16,6 +16,9 @@
   <br> 
 <p> 🌱The first solution is not always the best solution, but there is no reason why the first solution should not be the best, so put everyone together before choosing the final solution for your program and then choose one. </p>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=mehranlip&theme=ambient-gradient&hide_border=true&border_radius=25&date_format=n%2Fj%5B%2FY%5D&background=56%2C00B6F6%2CA510DD)](https://git.io/streak-stats)
+
+
 
 
 
