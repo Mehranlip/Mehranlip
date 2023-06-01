@@ -1,4 +1,4 @@
-<img style="border-radius: 35px;" src="https://user-images.githubusercontent.com/60979458/218801669-aad47f70-e647-455f-8c05-78cbf253ffec.png" />
+<img style="border-radius: 35px;" src="https://github.com/Mehranlip/Mehranlip/assets/60979458/cf75e510-4b4d-4b7f-8912-925e10ffab7a" />
 
 <p align="center"> 
  <strong>
