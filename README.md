@@ -1,5 +1,5 @@
 
-<img style="border-radius: 35px;" src="https://github.com/Mehranlip/Mehranlip/assets/60979458/da8a88cd-dfc1-4f12-90e6-413fe6e635e5" />
+<img style="border-radius: 35px;" src="https://github.com/user-attachments/assets/75b38a75-7eb2-4aaf-bfbc-7f5000065385" />
 
 ## My skills
   <p align="center">   
