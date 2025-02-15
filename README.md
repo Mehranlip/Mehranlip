@@ -1,5 +1,5 @@
 
-<img style="border-radius: 35px;" src="https://github.com/user-attachments/assets/29e6a7d9-1ffb-4674-acc1-877f3b8a397a" />
+<img style="border-radius: 35px;" src="https://github.com/user-attachments/assets/4c1050d1-8adb-4396-8a51-0ab440e7d542" />
 
 ## My skills
   <p align="center">   
